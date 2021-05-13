@@ -15,8 +15,8 @@ inside the environment.
 Full support is provided for all supported versions of Python.
 
 .. _virtualenv: http://www.virtualenv.org/
-.. |Build Status| image:: https://travis-ci.org/sjkingo/virtualenv-api.svg
-   :target: https://travis-ci.org/sjkingo/virtualenv-api
+.. |Build Status| image:: https://github.com/sjkingo/virtualenv-api/workflows/Tests/badge.svg
+   :target: https://github.com/sjkingo/virtualenv-api/actions
 .. |Latest version| image:: https://img.shields.io/pypi/v/virtualenv-api.svg
    :target: https://pypi.python.org/pypi/virtualenv-api
 .. |BSD License| image:: https://img.shields.io/pypi/l/virtualenv-api.svg
